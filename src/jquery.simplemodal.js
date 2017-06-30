@@ -1,4 +1,5 @@
-/*
+/**
+ * @license
  * SimpleModal @VERSION - jQuery Plugin
  * http://simplemodal.com/
  * Copyright (c) 2014 Eric Martin
