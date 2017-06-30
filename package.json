@@ -1,0 +1,8 @@
+{
+  "name": "simplemodal",
+  "version": "1.4.5",
+  "description": "forked to own repo to add package.json\"",
+  "main": "index.js",
+  "repository": "git@github.com:vmpublishing/simplemodal.git",
+  "license": "MIT"
+}
