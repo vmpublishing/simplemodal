@@ -1,5 +1,5 @@
 {
-  "name": "simplemodal",
+  "name": "jquery-simplemodal",
   "version": "1.4.5",
   "description": "forked to own repo to add package.json\"",
   "main": "index.js",
